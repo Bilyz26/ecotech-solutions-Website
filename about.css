@@ -50,4 +50,9 @@ html{
   
 }
 
+.cntrFoto .img img{
+    object-fit: fill;
+
+  
+}
 
